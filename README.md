@@ -1,1 +1,2 @@
-# 3-bit_encoder
+# Optical Encoder Design
+## 3-bit encoder
